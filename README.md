@@ -28,7 +28,7 @@ Em breve mais detalhes do processo de instalação e utilização.
   - Volte ao builder e veja se a fluxo foi carregado
   - Publique o fuxo e começe a usar!  😱😱😱😱
   
-![N|Solid](https://raw.githubusercontent.com/Wilkor/doc-plugin-tiny/main/configuraca.png)
+![N|Solid](https://raw.githubusercontent.com/Wilkor/doc-plugin-tiny/main/configuracao.png)
  
 
 

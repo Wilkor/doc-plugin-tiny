@@ -19,11 +19,11 @@ Quando fizer esse processo, automaticamente iremos criar um fluxo com a integra�
 
 😎 Recomendamos fortemente a utilização da arquitetura router + sub-bots, com isso, você pode ciar um sub-bot e dar essa skill para ele, de forma simples e rápida, basta fazer o passo a passo abaixo:
 
-1- Cria o bot e dar um nome para ele;
-2 - Acessar o Builder e fazer uma publicação (Para adicionar o bot como um serviço é preciso publicar mesmo que não tenha nada lá rs);
-3 - Navergar no menu horizontal do blip -> menu "..." -> Extensões e ativar o plugin Plugin Tiny ERP;
-4 - Apos instalado e ativado, adicionar a variável token;
-5 - Clicar em Criar Estrutura.
+ - Cria o bot e dar um nome para ele;
+ - Acessar o Builder e fazer uma publicação (Para adicionar o bot como um serviço é preciso publicar mesmo que não tenha nada lá rs);
+ - Navergar no menu horizontal do blip -> menu "..." -> Extensões e ativar o plugin Plugin Tiny ERP;
+ - Apos instalado e ativado, adicionar a variável token;
+ - Clicar em Criar Estrutura.
 
 Feito isso, vai aparecer uma popup no rodapé com a informação de sucesso ou erro
 Volte ao builder e veja se a fluxo foi carregado, publique o fluxo e comece a usar! 😱😱😱😱

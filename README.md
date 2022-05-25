@@ -21,7 +21,8 @@ Quando fizer esse processo, automaticamente iremos criar um fluxo com a integra�
 
  - Cria o bot e dar um nome para ele;
  - Acessar o Builder e fazer uma publicação (Para adicionar o bot como um serviço é preciso publicar mesmo que não tenha nada lá rs);
- - Navergar no menu horizontal do blip -> menu "..." -> Extensões e ativar o plugin Plugin Tiny ERP;
+ - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões.
+ - Procure por **Plugin Tiny** e clique em ativar
  - Apos instalado e ativado, adicionar a variável token;
  - Clicar em Criar Estrutura.
 

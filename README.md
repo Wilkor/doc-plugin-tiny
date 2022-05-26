@@ -28,6 +28,10 @@ Quando fizer esse processo, automaticamente iremos criar um fluxo com a integra�
 
 Feito isso, vai aparecer uma popup no rodapé com a informação de sucesso ou erro
 Volte ao builder e veja se a fluxo foi carregado, publique o fluxo e comece a usar! 😱😱😱😱
+
+Clique no link abaixo e veja como é simples utilizar esse plugin.
+
+https://youtu.be/oea9LCChAFw
   
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/doc-plugin-tiny/main/configuracao.png)
  

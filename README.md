@@ -1,6 +1,5 @@
 
-
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
+![icone_github](https://github.com/Wilkor/doc-plugin-tiny/assets/34819624/bf538eea-0ccc-4521-a926-a66504979084)
 
 
 O **Plugin Tiny**, foi criado para facilitar a integração do Blip com o ERP Tiny. 
